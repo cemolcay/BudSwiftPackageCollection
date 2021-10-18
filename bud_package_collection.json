@@ -1,0 +1,13 @@
+{
+  "name": "Bud Package Collection",
+  "packages": [
+    {
+      "url": "https://github.com/AudioKit/AudioKit.git",
+      "url": "https://github.com/cemolcay/MusicTheory.git",
+      "url": "https://github.com/cemolcay/LiveKnob.git",
+      "url": "https://github.com/cemolcay/LiveFader.git",
+      "url": "https://github.com/cemolcay/XYPad.git",
+      "url": "https://github.com/Xmartlabs/Eureka.git"
+    }
+  ]
+}
